@@ -62,7 +62,7 @@ The notebook includes:
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vyom10445/mnist-digit-classification.git
 ```
 
 2. Install dependencies
